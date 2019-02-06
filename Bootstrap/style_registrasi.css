@@ -1,0 +1,32 @@
+div.container{
+
+}
+div.container h4{
+  text-align: center;
+  color: blue;
+}
+
+div.body{
+  text-align: left;
+  column-rule-color: red;
+}
+div.body h5{
+  color: blue;
+}
+div.bawah{
+  text-align: center;
+}
+div.card{
+  background: yellow;
+}
+div.card-header{
+  background: lime;
+}
+div.bawah button{
+  background: lime;
+  margin-left: 20px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: blue;
+}
